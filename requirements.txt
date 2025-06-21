@@ -1,0 +1,4 @@
+# Requirements for ITLMS: An Intelligent Traffic Light Management System
+opencv-python
+Pillow
+ultralytics
