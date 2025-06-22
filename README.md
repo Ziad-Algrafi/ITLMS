@@ -24,7 +24,7 @@ This repository contains the implementation of an Intelligent Traffic Light Mana
 1. Clone this repository:
    ```bash
    git clone https://github.com/Ziad-Algrafi/ITLMS.git
-   cd traffic-management-system
+   cd ITLMS
    ```
 
 2. Install dependencies:
